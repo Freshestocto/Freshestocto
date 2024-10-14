@@ -1,8 +1,8 @@
 ## Hi!
 
-<img src="https://github-readme-stats.vercel.app/api?username=Freshestocto&show_icons=true&theme=radical"/>
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Freshestocto&show_icons=true&theme=radical"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freshestocto"
+<img alt="top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freshestocto"/>
 
 <!--
 **Freshestocto/Freshestocto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
