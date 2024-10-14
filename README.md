@@ -1,12 +1,18 @@
-## Hi!
-
-# About me:
+# Hi! :D 👋 
 I like doing some Modding/Datamining on Wii U & Switch (Mostly related to Splatoon)
-I also made some Discord Bots with using Python
-I'm also a IDA beginner (mostly on Wii U)
+But I'm also a beginner with using IDA 😅
 
-Discord : freshest_octoling
-My server : https://discord.gg/tT8eQcM59N
+## About me:
+- I'm from Taiwan 🇹🇼! ^^
+- Pronouns -> He/Him
+- Discord Bot developer
+
+
+## Feel free to contact me on Discord (and else) :)
+Discord : freshest_octoling <br />
+My server : https://discord.gg/tT8eQcM59N <br />
+
+## My GitHub Stats ->
 
 <img alt="stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Freshestocto&show_icons=true&theme=radical"/>
 
