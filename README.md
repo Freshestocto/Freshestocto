@@ -1,6 +1,6 @@
 ## Hi!
 
-[![Freshestocto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Freshestocto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Freshestocto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freshestocto)](https://github.com/anuraghazra/github-readme-stats)
 
