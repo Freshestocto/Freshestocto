@@ -1,8 +1,9 @@
 # Hi! :D 👋 
 I like doing some Modding/Datamining on Wii U & Switch (Mostly related to Splatoon)
-But I'm also a beginner with using IDA 😅
+Tho I'm also a beginner with using IDA 😅
+I'm also progressing on a Unity Wii U game project
 
-<img alt="top lang" src="https://skillicons.dev/icons?i=py,discord,c,github,html,mongodb,twitter,unity,blender"/>
+<img alt="top lang" src="https://skillicons.dev/icons?i=unity,cs,py,discord,github,mongodb,html,twitter,blender"/>
 
 ## About me:
 - I'm from Taiwan 🇹🇼! ^^
