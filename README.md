@@ -3,12 +3,14 @@ I like doing some Modding/Datamining on Wii U & Switch (Mostly related to Splato
 Tho I'm also a beginner with using IDA 😅
 I'm also progressing on a Unity Wii U game project
 
-<img alt="top lang" src="https://skillicons.dev/icons?i=unity,cs,py,discord,github,mongodb,html,twitter,blender"/>
+<img alt="top lang" src="https://skillicons.dev/icons?i=unity,cs,cpp,py,discord,github,mongodb,html,twitter,blender"/>
 
 ## About me:
 - I'm from Taiwan 🇹🇼! ^^
 - Pronouns -> He/Him
 - Discord Bot developer
+- Wii U Dev
+- Splatoon series lover
 
 
 ## Feel free to contact me on Discord (and else) :)
